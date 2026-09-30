@@ -13,6 +13,7 @@ This repository initially contains public background and primer material. Detail
 - [Adaptive Invariant Computation Primer](papers/Adaptive_Invariant_Computation_Primer.pdf)
 - [Background: Bindu Recursive Compression Theory](background/BRCT.md)
 - [Background: Inversion and Reversion](background/inversion.md)
+- [Contextual background: Nanobrain, FIT, GML, PPM and OpenGML](background/Anirban_FIT_GML_PPM_OpenGML_Nanobrain.md)
 
 ## Research direction
 
