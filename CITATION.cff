@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use or discuss this research, please cite it using the metadata below."
+title: "Adaptive Invariant Computation"
+type: software
+authors:
+  - family-names: "Timms"
+    given-names: "Martin"
+version: "0.1.0"
+date-released: "2026-09-30"
+abstract: >-
+  Adaptive Invariant Computation (AIC) is a research programme investigating
+  whether task-relevant invariants can provide a principled boundary for
+  reducing computational representations while preserving useful structure.
+  The work develops from ideas explored in Bindu Recursive Compression Theory
+  (BRCT), invariant-space learning, and inversion/reversion as a means of
+  testing information preservation.
+repository-code: "https://github.com/Electro-resonance/Adaptive-Invariant-Computation"
+keywords:
+  - adaptive invariant computation
+  - invariant learning
+  - recursive compression
+  - representation learning
+  - efficient AI
+  - inversion
+  - reversion
+  - BRCT

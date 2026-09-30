@@ -1,0 +1,91 @@
+ADAPTIVE INVARIANT COMPUTATION RESEARCH LICENCE
+Version 1.0 — 30 September 2026
+
+Copyright © 2026 Martin Timms. All rights reserved.
+
+1. PURPOSE
+
+This repository contains publicly disclosed research material relating to
+Adaptive Invariant Computation (AIC). The material is made available for
+personal reading, academic study, research discussion, evaluation, and
+citation.
+
+2. PERMITTED USE
+
+You may:
+
+a. access, read, and download the publicly available material;
+b. quote reasonable portions for academic, scholarly, journalistic, or
+   research purposes with appropriate attribution;
+c. cite the work using the citation information supplied with the repository;
+d. link to the public repository and its publicly available documents.
+
+3. NO GENERAL LICENCE TO IMPLEMENT OR COMMERCIALISE
+
+Except where separate written permission is granted, this licence does not
+grant permission to:
+
+a. reproduce or distribute substantial portions of the repository as a
+   substitute for the original;
+b. modify and redistribute the material as a derivative work;
+c. use the material to create, implement, reproduce, reverse engineer, or
+   commercialise proprietary or unpublished Adaptive Invariant Computation
+   mechanisms;
+d. use any unpublished architecture, algorithm, training procedure, control
+   logic, invariant-preservation mechanism, reversion mechanism, stopping rule,
+   compression policy, implementation detail, know-how, or trade secret
+   associated with AIC;
+e. use any patent rights or patentable inventions associated with AIC;
+f. imply endorsement, partnership, sponsorship, or affiliation with Martin
+   Timms or the Adaptive Invariant Computation research programme.
+
+4. PUBLIC DISCLOSURE BOUNDARY
+
+This licence applies only to material actually present in the public
+repository. It does not grant rights to unpublished documents, private source
+code, private experiments, confidential technical material, or inventions not
+expressly disclosed here.
+
+5. SOFTWARE
+
+No software licence is granted unless a specific file, directory, or software
+component carries its own separate licence notice. Any future software added
+to this repository may therefore be licensed independently.
+
+6. ATTRIBUTION
+
+Where permitted use includes quotation, citation, or discussion, attribution
+should identify:
+
+Martin Timms
+Adaptive Invariant Computation (AIC)
+https://github.com/Electro-resonance/Adaptive-Invariant-Computation
+
+7. TRADEMARKS AND NAMES
+
+No rights are granted to any trade names, project names, logos, or trademarks
+associated with Adaptive Invariant Computation.
+
+8. NO WARRANTY
+
+The material is provided "as is", without warranty of any kind, express or
+implied, including warranties of accuracy, fitness for a particular purpose,
+non-infringement, or technical validity.
+
+Adaptive Invariant Computation is an early-stage research programme. Published
+hypotheses and proposed mechanisms may be incomplete, experimental, or later
+shown to be incorrect.
+
+9. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by law, the copyright holder shall not be
+liable for any claim, damages, or other liability arising from use of, reliance
+on, or inability to use the material.
+
+10. RESERVATION OF RIGHTS
+
+All rights not expressly granted by this licence are reserved.
+
+This licence does not constitute an open-source software licence and should not
+be interpreted as granting rights under any patent, unpublished algorithm,
+source code, or proprietary implementation.
